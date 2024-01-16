@@ -25,20 +25,34 @@
   - Exploring advanced data engineering patterns
   - Enhancing skills in cloud-based data solutions (e.g. Azure, AWS, Google Cloud)
   - Practical implementation of cloud technologies
-
-- **Data Scientist:**
-  - Delving into machine learning algorithms and models
-  - Gaining expertise in data preprocessing and feature engineering
-
-- **Advanced Statistics:**
+  - Advanced ETL and Data Modelling concepts.
+ 
+  - - **Advanced Statistics:**
   - Mastering statistical modeling techniques
   - Other needed statistics which benefits machine learning model understanding.
 
+- **Data Scientist:**
+  - AI and ML models
 
-## 📈 Featured Projects
 
-### [Project Name 1](Link to Project 1)
-Description of the project and its impact on data analysis.
+
+## 📈 Portfolio
+
+### Certification
+
+  - AZURE
+      a. AZ-400: Designing and Implementing Microsoft DevOps Solutions
+      b. AZ-900: Microsoft Azure Fundamentals
+    
+  - AWS
+      a. AWS Certified Cloud Practitioner (CLF-C01)
+    
+  - GCP
+      a. (Coursera)- Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate
+      b. (Coursera)- Google Data Analytics
+    
+  - Oracle
+  -   a. Oracle Certified Foundations Associate (1Z0-811)
 
 ### [Project Name 2](Link to Project 2)
 Description of the project and the insights gained.
