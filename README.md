@@ -40,19 +40,19 @@
 
 ### Certification
 
-  - AZURE
-      a. AZ-400: Designing and Implementing Microsoft DevOps Solutions
-      b. AZ-900: Microsoft Azure Fundamentals
+  - AZURE <br>
+      a. AZ-400: Designing and Implementing Microsoft DevOps Solutions <br>
+      b. AZ-900: Microsoft Azure Fundamentals <br>
     
-  - AWS
-      a. AWS Certified Cloud Practitioner (CLF-C01)
+  - AWS <br>
+      a. AWS Certified Cloud Practitioner (CLF-C01) <br>
     
-  - GCP
-      a. (Coursera)- Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate
-      b. (Coursera)- Google Data Analytics
+  - GCP <br>
+      a. (Coursera)- Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate <br>
+      b. (Coursera)- Google Data Analytics <br>
     
-  - Oracle
-  -   a. Oracle Certified Foundations Associate (1Z0-811)
+  - Oracle <br>
+  -   a. Oracle Certified Foundations Associate (1Z0-811) <br>
 
 ### [Project Name 2](Link to Project 2)
 Description of the project and the insights gained.
