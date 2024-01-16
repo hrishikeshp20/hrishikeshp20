@@ -43,7 +43,9 @@ Description of the project and its impact on data analysis.
 ### [Project Name 2](Link to Project 2)
 Description of the project and the insights gained.
 
-##
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true)
 
 
 ## 📫 Let's Connect!
