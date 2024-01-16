@@ -52,7 +52,7 @@
       b. (Coursera)- Google Data Analytics <br>
     
   - Oracle <br>
-  -   a. Oracle Certified Foundations Associate (1Z0-811)
+      a. Oracle Certified Foundations Associate (1Z0-811)
 
 ### [Project Name 2](Link to Project 2)
 Description of the project and the insights gained.
