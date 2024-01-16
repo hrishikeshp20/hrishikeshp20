@@ -60,7 +60,7 @@ Description of the project and the insights gained.
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrishikeshp20&show_icons=true&hide_title=true&count_private=true)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hrishikeshp20)]
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hrishikeshp20)
 
 
 ## 📫 Let's Connect!
