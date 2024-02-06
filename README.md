@@ -65,7 +65,8 @@ Description of the project and the insights gained.
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
+- LinkedIn: [[Your LinkedIn Profile](Link to LinkedIn)](http://www.linkedin.com/in/hrishikesh-pawar20)
+- Kaggle: https://www.kaggle.com/code/hrishikeshpawar20/analyzing-911-calls-dataset-2015-2020
 
 
 Feel free to reach out for collaboration, discussions, or if you have any interesting projects in mind!
