@@ -65,6 +65,7 @@
 
 - LinkedIn: [[Your LinkedIn Profile](Link to LinkedIn)](http://www.linkedin.com/in/hrishikesh-pawar20)
 - Kaggle: https://www.kaggle.com/code/hrishikeshpawar20/analyzing-911-calls-dataset-2015-2020
+- Resume: https://drive.google.com/file/d/1uQAWHsGwnzumWuULnjtApbuA9PcPlHN0/view?usp=sharing
 
 
 Feel free to reach out for collaboration, discussions, or if you have any interesting projects in mind!
